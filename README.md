@@ -54,7 +54,9 @@ I was contracted to make a music video using Unity and C# for the band Crossfire
 
 I used some standard Unity assets such as the butterflies and bonfire, and then edited them with a C# script to change their animation properties throughout the video.  I also added some rotating lights with random axis offsets to create ember like lights moving across the screen.
 
-The lyrics were manually animated using a script as well, using animation function I created and iterating through a multidimensional array containing the lyrics and the corresponding animation parameters.
+The lyrics were manually animated using a script as well, using animation functions I created and iterating through a multidimensional array containing the lyrics and the corresponding animation parameters.
+
+
 ## Internet of Things 3rd Year Module: Wireless Robot (2019)
 This project used C++ and an ESP32 to remotely control a robot using a browser application that was connected to to a hotspot that the ESP32 was hosting.
 

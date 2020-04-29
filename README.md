@@ -49,8 +49,8 @@ This is a game I created in UE4 using C++ and blueprints.  The purpose of this p
 
 -----
 
-## Crossfire Eagles Music Video
-I was contracted to make a music video using Unity and C# for the band Crossfire Eagles.  A video link will be made available once it has been officially released.
+## Contract Work: Crossfire Eagles Music Video
+I was contracted to make a music video using Unity and C# for the band Crossfire Eagles.  A video link will be made available once it has been officially released.  They reached out to me via a mutual friend and offered to pay for my services if I could create a video within 48 hours because their previous plan had fallen through at the last minute.
 
 I used some standard Unity assets such as the butterflies and bonfire, and then edited them with a C# script to change their animation properties throughout the video.  I also added some rotating lights with random axis offsets to create ember like lights moving across the screen.
 

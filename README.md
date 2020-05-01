@@ -60,6 +60,8 @@ The lyrics were manually animated using a script as well, using animation functi
 
 ### (click on image for Youtube video)
 
+-----
+
 ## Internet of Things 3rd Year Module: Wireless Robot (2019)
 This project used C++ and an ESP32 to remotely control a robot using a browser application that was connected to to a hotspot that the ESP32 was hosting.
 

@@ -40,23 +40,23 @@ The Sun tries to either help the player build a clean world, or destroy the stru
 ### (click on image for Youtube video)
 
 -----
-## Unreal Engine 4 Simple Runner Game (2020)
-This is a game I created in UE4 using C++ and blueprints.  The purpose of this project, and other small projects I have completed using UE4 and C++, is to learn rather that to develop a complete game.
-
-[![](http://img.youtube.com/vi/ZflQ0LOcMgc/0.jpg)](http://www.youtube.com/watch?v=ZflQ0LOcMgc "Unreal Engine 4 Simple Runner Game (2020)")
-
-### (click on image for Youtube video)
-
------
 
 ## Contract Work: Crossfire Eagles Music Video
 I was contracted to make a music video using Unity and C# for the band Crossfire Eagles.  They reached out to me via a mutual friend and offered to pay for my services if I could create a video within 48 hours because their previous plan had fallen through at the last minute.
 
-I used some standard Unity assets such as the butterflies and bonfire, and then edited them with a C# script to change their animation properties throughout the video.  I also added some rotating lights with random axis offsets to create ember like lights moving across the screen.
+I used some standard Unity assets such as the butterflies and bonfire along with the Unity animator.  I also edited some of them with a C# script to change their animation properties throughout the video.  I also added some rotating lights with random axis offsets to create ember like lights moving across the screen.
 
-The lyrics were manually animated using a script as well, using animation functions I created and iterating through a multidimensional array containing the lyrics and the corresponding animation parameters.
+The lyrics were manually animated using a script as well as the Unity animator, and used animation functions I created and iterating through a multidimensional array containing the lyrics and the corresponding animation parameters.
 
 [![](http://img.youtube.com/vi/dz6-UStaBE4/0.jpg)](http://www.youtube.com/watch?v=dz6-UStaBE4 "Crossfire Eagles music Video")
+
+### (click on image for Youtube video)
+
+-----
+## Unreal Engine 4 Simple Runner Game (2020)
+This is a game I created in UE4 using C++ and blueprints.  The purpose of this project, and other small projects I have completed using UE4 and C++, is to learn rather that to develop a complete game.
+
+[![](http://img.youtube.com/vi/ZflQ0LOcMgc/0.jpg)](http://www.youtube.com/watch?v=ZflQ0LOcMgc "Unreal Engine 4 Simple Runner Game (2020)")
 
 ### (click on image for Youtube video)
 
